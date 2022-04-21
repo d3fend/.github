@@ -7,7 +7,7 @@ We will be releasing software opensouce software repositories here in order to e
 
 ## Useful Links
 - [D3FEND Website](https://d3fend.mitre.org)
-- [D3FEND Ontology Code Repository](https://d3fend.mitre.org)
+- [D3FEND Ontology Code Repository](https://github.com/d3fend/d3fend-ontology)
 - [Ontology Contribution Guidelines](https://github.com/d3fend/d3fend-ontology/blob/develop/CONTRIBUTING.md)
 
 ## Contact and Feedback
