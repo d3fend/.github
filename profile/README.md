@@ -3,7 +3,7 @@
 We will be releasing software opensouce software repositories here in order to engage with the community and improve D3FEND. We enthusastically welcome any feedback or contributions.
 
 ### What is D3FEND?
-[D3FEND](https://d3fend.mitre.org) is a knowledge graph (a type of knowledge base) of cybersecurity countermeasure techniques. The primary goal of D3FEND is to help standardize the vocabulary used to describe defensive cybersecurity technology functionality. It does this with a semantic graph model of components of a computer (Digital Artifacts) system, and how they relate to defensive and offensive cyber techniques. This enables a variety of use cases from systems engineering, digital engineering, aquisition analysis, cyber defense testing, and analytic roadmap development.
+[D3FEND](https://d3fend.mitre.org) is a knowledge graph (a type of knowledge base) of cybersecurity countermeasure techniques. The primary goal of D3FEND is to help standardize the vocabulary used to describe defensive cybersecurity technology functionality. It does this with a semantic graph model of components (Digital Artifacts) of a computer system, and how they relate to defensive and offensive cyber techniques. This enables a variety of use cases from systems engineering, digital engineering, aquisition analysis, cyber defense testing, and analytic roadmap development.
 
 ## Useful Links
 - [D3FEND Paper (PDF)](https://d3fend.mitre.org/resources/D3FEND.pdf)
